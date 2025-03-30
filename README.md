@@ -31,3 +31,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankiso-montse&show_icons=true&locale=en&layout=compact" alt="tankiso-montse" /></p>
 
+<img src="https://raw.githubusercontent.com/tankiso-montse/tankiso-montse/output/snake.svg" alt="Snake animation" />
+
+###
