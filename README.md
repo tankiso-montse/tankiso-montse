@@ -1,11 +1,11 @@
 <h1 align="center">Hey There👋, I'm Tankiso</h1>
 <h3 align="center">A Junior full Stack Developer. Building the web one commit at a time.🚀</h3>
 
-- 🔭 I’m currently working on BLEEP! I'll get sacked if I say! **on BLEEP! I'll get sacked if I say**
+<p align="centeer"> - 🔭 I’m currently working on BLEEP! I'll get sacked if I say! **on BLEEP! I'll get sacked if I say** </p>
 
-- 🌱 I’m currently learning **[UX/UI👨🏾‍🎨][Springboot☘️][KaboomJs👾]**
+<p align="center"> - 🌱 I’m currently learning **[UX/UI👨🏾‍🎨][Springboot☘️][KaboomJs👾]** </p>
 
-- 👯 Well I'm also currently working on a project with my team that helps vinyl collectors and DJs track down whether their favorite Spotify tracks were ever pressed on vinyl—powered by Discogs integration. It's called [Rekkid Hunter](rekkidhunter.com)
+ <p align="center"> - 👯 Well I'm also currently working on a project with my team that helps vinyl collectors and DJs track down whether their favorite Spotify tracks were ever pressed on vinyl—powered by Discogs integration. Check it out! [Rekkid Hunter](rekkidhunter.com) </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/tankiso-montse](https://github.com/tankiso-montse)
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I am funny**
   
-<p align="centeer"> <img src="https://komarev.com/ghpvc/?username=tankiso-montse&label=Profile%20views&color=0e75b6&style=flat" alt="tankiso-montse" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tankiso-montse&label=Profile%20views&color=0e75b6&style=flat" alt="tankiso-montse" /> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/https://dev.to/tankisomontse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tankisomontse" height="30" width="40" /></a>
