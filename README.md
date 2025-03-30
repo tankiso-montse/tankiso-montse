@@ -1,7 +1,5 @@
 <h1 align="center">Hey There👋, I'm Tankiso</h1>
-<h3 align="center">A Junior full Stack Developer. Building the web one commit at a time.🚀</h3>
-
-<p align="left"> <a href="https://twitter.com/tankcodes" target="blank"><img src="https://img.shields.io/twitter/follow/tankcodes?logo=twitter&style=for-the-badge" alt="tankcodes" /></a> </p>
+<h3 align="center">A Junior full Stack Developer. Building the web one commit at a time.🚀</h3> <p align="left"> <a href="https://twitter.com/tankcodes" target="blank"><img src="https://img.shields.io/twitter/follow/tankcodes?logo=twitter&style=for-the-badge" alt="tankcodes" /></a> </p>
 
 - 🔭 I’m currently working on BLEEP! I'll get sacked if I say! **on BLEEP! I'll get sacked if I say**
 
