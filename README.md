@@ -29,6 +29,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankiso-montse&show_icons=true&locale=en&layout=compact" alt="tankiso-montse" /></p>
 
-<div align="center">
- ![snake gif](https://github.com/tankiso-montse/tankiso-montse/blob/output/github-snake-dark.svg)
-</div>
+![snake gif](https://github.com/tankiso-montse/tankiso-montse/blob/output/github-snake-dark.svg)
+
