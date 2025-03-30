@@ -12,16 +12,19 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      # Correct usage of Platane/snk action
+      # Generate the snake using Platane/snk action
       - uses: Platane/snk@v3.3.0
         id: generate-snake
         with:
           github_user_name: tankiso-montse
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # You can add custom arguments here if needed (e.g., setting output file names)
+          args: --output dist/github-contribution-grid-snake.gif
+          outputs: dist/github-contribution-grid-snake.svg
 
+      # Show the status of the build for debugging purposes
       - run: git status
 
+      # Push changes to the repository
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
@@ -29,6 +32,7 @@ jobs:
           branch: master
           force: true
 
+      # Deploy to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
