@@ -1,7 +1,7 @@
 <h1 align="center">Hey There👋, I'm Tankiso</h1>
 <h3 align="center">A Junior full Stack Developer. Building the web one commit at a time.🚀</h3>
 
-<p align="center"> - 🔭 I’m currently working on BLEEP! I'll get sacked if I say! **on BLEEP! I'll get sacked if I say** </p>
+<p align="center"> - 🔭 I’m currently working on BLEEP! I'll get sacked if I say! </p>
 
 <p align="center"> - 🌱 I’m currently learning **[UX/UI👨🏾‍🎨][Springboot☘️][KaboomJs👾]** </p>
 
